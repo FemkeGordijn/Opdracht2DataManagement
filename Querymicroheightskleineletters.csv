@@ -1,0 +1,337 @@
+Query Microheights;;;
+bdec;occupation;ht_n;avg_height
+1850;caixeiro;4;157
+1850;piloto;1;159
+1850;criado de servir/criada de servir;10;159.3
+1850;rolheiro;1;161
+1850;correeiro;1;161
+1850;sapateiro;1;161.5
+1850;estudante;3;161.666.666.666.666.000
+1850;trabalhador/ trabalhador;3;161.666.666.666.666.000
+1850;agricultor/agricultora;1;162
+1850;NA;1;162
+1850;trabalhador/ trabalhador;1;163
+1850;serralheiro;1;163
+1850;ferrador;1;163
+1850;pedreiro;4;163.25
+1850;moleiro/moleira;2;163.5
+1850;carreiro;6;163.666.666.666.666.000
+1850;trabalhador/ trabalhador;78;163.679.487.179.487.000
+1850;empregado do comércio;1;164
+1850;caixeiro;1;164
+1850;músico de patriarchal;4;164
+1850;fazendeiro;1;164
+1850;tanoeiro;2;164
+1850;seareiro/seareira;1;164
+1850;jornaleiro;24;164.416.666.666.666.000
+1850;alfaiate/alfaiata;7;164.428.571.428.571.000
+1850;carroceiro;1;165
+1850;carpinteiro;2;165
+1850;criado de servir/criada de servir;1;165
+1850;criado de servir/criada de servir;2;165.5
+1850;ganadeiro;8;165.625
+1850;condutor ( transportes);1;166
+1850;alvanéu;1;166
+1850;estudante;3;166.333.333.333.333.000
+1850;pastor/pastora;2;166.5
+1850;taberneuro/taberneira;1;167
+1850;compositor (incl.vidro);1;167
+1850;proprietário/proprietária;4;167
+1850;medidor do terreiro;1;167
+1850;abegão;1;167
+1850;sapateiro;12;167.25
+1850;trabalhador/ trabalhador;7;167.428.571.428.571.000
+1850;oleiro;2;167.5
+1850;carpinteiro;3;167.666.666.666.666.000
+1850;moço de lavoura;1;168
+1850;marítimo;1;168
+1850;lavrador / lavradora;1;168
+1850;alugador de cavalos;1;169
+1850;porqueiro;1;169
+1850;lavrador / lavradora;4;174
+1850;alfaiate/alfaiata;1;176
+1890;apprendiz de carpinteiro;2;147
+1890;farmácia;1;148
+1890;cabreiro/cabreira;1;148
+1890;pedreiro;1;148.699.996.948.242
+1890;NA;1;149
+1890;electricista;1;149.199.996.948.242
+1890;electricista;1;151
+1890;alpargateiro;1;152
+1890;militar;1;152.300.003.051.758
+1890;agricultor/agricultora;1;153.800.003.051.758
+1890;cortidor de pelo (incl.chapelaria);1;154.200.012.207.031
+1890;amanuensa da camâra;1;154.400.009.155.273
+1890;almocreve;1;154.5
+1890;NA;1;155
+1890;picheleiro;4;1.552.000.007.629.390
+1890;NA;1;155.200.012.207.031
+1890;cutileiro;1;155.5
+1890;NA;2;1.556.000.061.035.150
+1890;sem proffissão;1;156
+1890;doméstica;1;156
+1890;serralheiro;2;156
+1890;distribuidor do correio;1;156
+1890;tintureiro;2;156.400.001.525.879
+1890;cozinheiro/cozinheira;1;156.5
+1890;caldeireiro;1;156.600.006.103.516
+1890;caineiro;1;157
+1890;canteiro;1;157
+1890;NA;1;157.299.987.792.969
+1890;NA;1;157.299.987.792.969
+1890;ajudante;2;1.573.500.061.035.150
+1890;castrador;1;157.399.993.896.484
+1890;farmacêutico;1;157.399.993.896.484
+1890;NA;5;157.4
+1890;carpinteiro de moldes;1;157.599.990.844.727
+1890;peixeira /peixeiro;1;158
+1890;NA;1;158
+1890;serviçal;18;158.227.778.116.861.000
+1890;calceteiro;6;158.316.665.649.414
+1890;apprendiz de carpinteiro;2;158.349.998.474.121
+1890;músico de patriarchal;3;158.433.334.350.586
+1890;caixoteiro;1;158.5
+1890;mineiro;1;158.5
+1890;seleiro;1;158.800.003.051.758
+1890;NA;1;159
+1890;maquinista;1;159.099.990.844.727
+1890;carregador (minas);2;159.199.996.948.242
+1890;vendedor ambulante/vendedora ambulante;4;159.25
+1890;dourador de metais;3;159.266.662.597.656
+1890;litógrafo;1;159.300.003.051.758
+1890;canastreiro;2;159.5
+1890;empregado do comércio;2;159.5
+1890;NA;1;159.5
+1890;correeiro;5;1.596.599.975.585.930
+1890;cabeleireiro;1;159.800.003.051.758
+1890;NA;1;159.800.003.051.758
+1890;commerciante;1;160
+1890;moageiro;1;160
+1890;carreiro;1;160
+1890;repicador / repicador de limas;1;160
+1890;sacristão;1;160
+1890;empregado do comércio;1;160
+1890;pescador;3;160.166.666.666.666.000
+1890;fotógrafo;1;160.300.003.051.758
+1890;bombeiro;2;160.349.998.474.121
+1890;piloto;1;160.399.993.896.484
+1890;empregado do comércio;1;160.399.993.896.484
+1890;cantoneiro;1;160.399.993.896.484
+1890;funcionário público;8;16.041.250.038.146.900
+1890;servente de pedreiro;2;160.449.996.948.242
+1890;caeieiro/caeiro;2;160.5
+1890;pintor;1;160.5
+1890;chaufeur;1;160.5
+1890;soldador;4;160.525.001.525.879
+1890;serrador;7;160.542.859.758.649.000
+1890;cinzelador;4;1.605.499.992.370.600
+1890;marchante/marchanta;2;160.599.998.474.121
+1890;estofador;2;160.650.001.525.879
+1890;empregado da companhia dos telefones;1;160.699.996.948.242
+1890;polidor (incl.vidro);9;160.744.442.409.939.000
+1890;cordoeiro/cordoeira;5;1.608.400.024.414.060
+1890;pastor/pastora;5;1.608.400.024.414.060
+1890;encardernador;6;160.883.333.841.959.000
+1890;despachante da alfândega;3;160.933.334.350.586
+1890;regatão/regateira;1;161
+1890;empregado do comércio;1;161
+1890;calceteiro;1;161
+1890;servente;1;161
+1890;pintor;1;161
+1890;criado de servir/criada de servir;3;161
+1890;vendedor de jornais;1;161
+1890;NA;2;161
+1890;juiz da igreja;1;161
+1890;carregador (minas);1;161.099.990.844.727
+1890;NA;1;161.199.996.948.242
+1890;entalhador;3;161.266.667.683.919.000
+1890;fiadeiro/fiandeiro/fiandeira;4;161.275.001.525.879
+1890;cardador/cardadeira;1;161.399.993.896.484
+1890;alfaiate/alfaiata;36;161.413.888.719.346.000
+1890;barbeiro;25;16.146.399.963.378.900
+1890;comerciante;24;161.466.667.175.293
+1890;fundidor;4;161.474.998.474.121
+1890;compositor (incl.vidro);4;16.149.999.618.530.200
+1890;pintor de chitas;1;161.5
+1890;ferramenteiro (incl. metais);1;161.5
+1890;tecelão/tecedeira;19;161.521.053.113.435.000
+1890;tanoeiro;16;1.615.500.020.980.830
+1890;corticeiro;11;161.672.726.717.862.000
+1890;tanoeiro;3;161.733.332.316.080.000
+1890;dourador de metais;1;161.899.993.896.484
+1890;empregado dos caminhos de ferro;1;162
+1890;marinho;1;162
+1890;farmacêutico;1;162
+1890;ferreiro;39;162.069.231.082.231.000
+1890;moleiro/moleira;12;162.116.666.158.040.000
+1890;impressor;5;1.621.199.981.689.450
+1890;comerciante;4;1.621.749.992.370.600
+1890;chaufeur;1;162.199.996.948.242
+1890;sapateiro;133;162.202.256.166.845.000
+1890;marceneiro;24;162.270.834.604.899.000
+1890;empregado dos caminhos de ferro;1;162.300.003.051.758
+1890;funileiro;18;162.333.334.181.043.000
+1890;canteiro;27;162.337.036.132.812.000
+1890;comerciante;5;1.623.800.018.310.540
+1890;chaufeur;6;162.466.667.175.293
+1890;estofador;5;1.624.799.987.792.960
+1890;empregado do comércio;8;162.487.497.329.712
+1890;estudante de medecina;2;162.5
+1890;aprendiz de pedreiro;4;16.254.999.923.706.000
+1890;jardineiro;1;162.600.006.103.516
+1890;leiteiro;7;162.685.714.721.679.000
+1890;NA;1;162.699.996.948.242
+1890;pintor;46;162.778.260.935.907.000
+1890;NA;1;162.800.003.051.758
+1890;trabalhador/ trabalhador;480;162.808.749.707.539.000
+1890;escriturário;7;162.857.142.857.142.000
+1890;pedreiro;108;162.870.370.511.655.000
+1890;trolha;7;162.871.429.443.359.000
+1890;trabalhador/ trabalhador;1;163
+1890;confiteiro;1;163
+1890;correeiro;1;163
+1890;NA;1;163
+1890;vidraceiro;1;163
+1890;marinho;1;163
+1890;caixeiro;73;163.046.576.094.954
+1890;cabouqueiro;3;163.133.331.298.828
+1890;jornaleiro;303;163.173.927.835.898.000
+1890;NA;1;163.199.996.948.242
+1890;ourives;29;163.224.139.509.529.000
+1890;agricultor/agricultora;4;16.322.499.847.412.100
+1890;amolador de facas;5;1.633.199.981.689.450
+1890;NA;1;163.399.993.896.484
+1890;serralheiro;102;163.404.902.439.491.000
+1890;agricultor/agricultora;1;163.5
+1890;electricista;4;163.5
+1890;piloto;1;163.5
+1890;ferrador;5;1.635.399.993.896.480
+1890;carroceiro;41;163.578.049.822.551.000
+1890;padeiro/padeira;18;163.622.222.052.680.000
+1890;tecelão/tecedeira;7;163.642.857.142.857.000
+1890;empregado do comércio;5;1.636.800.018.310.540
+1890;fabricante;2;163.699.996.948.242
+1890;carreteiro;3;163.800.003.051.758
+1890;tamanqueiro;6;163.833.333.333.333.000
+1890;criado/criada (meio rural);5;1.638.399.993.896.480
+1890;torneeiro / torneiro;8;1.638.875.007.629.390
+1890;lavrador / lavradora;196;163.898.979.420.564.000
+1890;cortador (incl.têxtil);6;163.900.001.525.878.000
+1890;industrial;2;163.900.001.525.879
+1890;criado de servir/criada de servir;18;163.994.442.409.939.000
+1890;fotógrafo;1;164
+1890;empregado dos caminhos de ferro;1;164
+1890;litógrafo;2;164
+1890;NA;1;164
+1890;carpinteiro naval;1;164
+1890;barqueiro/barqueira;5;1.640.599.975.585.930
+1890;farmácia;3;164.066.665.649.414
+1890;negociante;8;16.407.499.885.559.000
+1890;carpinteiro;108;164.099.074.610.957.000
+1890;forjador;2;164.25
+1890;desenhador;4;16.432.499.694.824.200
+1890;proprietário/proprietária;2;1.643.999.938.964.840
+1890;gravador;2;1.644.500.045.776.360
+1890;tipógrafo;24;164.524.999.618.530.000
+1890;empregado do comércio;28;164.535.714.285.714.000
+1890;caiador/caiadeira;56;164.566.072.191.510.000
+1890;forjador;1;164.699.996.948.242
+1890;estucador;23;164.765.218.320.100.000
+1890;empregado do comércio;25;16.480.000.061.035.100
+1890;ajuda de cozinha;1;164.800.003.051.758
+1890;estudante;123;16.482.601.630.978.400
+1890;operário;7;164.828.571.864.536.000
+1890;fazendeiro;8;16.488.749.885.559.000
+1890;oleiro;7;164.928.571.428.571.000
+1890;escriturário;23;164.943.479.455.035.000
+1890;artista;1;165
+1890;empregado dos caminhos de ferro;1;165
+1890;jornalista;1;165
+1890;NA;1;165
+1890;funcionário público;1;165
+1890;cortador;1;165.199.996.948.242
+1890;NA;1;165.199.996.948.242
+1890;funcionário público;2;1.652.000.045.776.360
+1890;bobinador/bobinadeira (incl. têxtil);6;165.249.997.456.868.000
+1890;torneeiro / torneiro;11;165.345.454.822.887.000
+1890;marítimo;23;165.430.433.853.812.000
+1890;cocheiro;8;1.654.500.007.629.390
+1890;fogueiro (têxtil);1;165.5
+1890;chapeleiro;5;1.655.400.024.414.060
+1890;carpinteiro de machado;5;1.655.999.969.482.420
+1890;ajudante;10;1.655.999.999.999.990
+1890;empregado do comércio;18;165.611.111.111.111.000
+1890;carniceiro;1;165.699.996.948.242
+1890;engraxador;1;165.699.996.948.242
+1890;empregado dos caminhos de ferro;3;165.833.333.333.333.000
+1890;NA;5;1.659.000.030.517.570
+1890;serralheiro mecânico;5;1.659.599.975.585.930
+1890;operário;4;165.974.998.474.121
+1890;farmácia;1;166
+1890;NA;1;166
+1890;empregado de escritório;1;166
+1890;tesoureiro da sé;1;166
+1890;empregado dos caminhos de ferro;1;166.100.006.103.516
+1890;empregado do comércio;44;166.197.728.243.741.000
+1890;piloto;1;166.199.996.948.242
+1890;tipógrafo;4;166.375
+1890;empregado dos caminhos de ferro;2;166.5
+1890;NA;1;166.5
+1890;farmacêutico;1;166.600.006.103.516
+1890;caldeireiro;10;1.666.599.990.844.720
+1890;empregado do comércio;20;16.670.999.984.741.200
+1890;aspirante de finanças;1;166.800.003.051.758
+1890;bronzeador;2;166.849.998.474.121
+1890;NA;1;167
+1890;armador (de navios);1;167
+1890;correeiro;1;167
+1890;NA;1;167
+1890;escrevente;5;167.1
+1890;latoeiro;1;167.300.003.051.758
+1890;campino;3;167.433.334.350.586
+1890;empregado do comércio;1;167.5
+1890;latoeiro;4;16.760.000.228.881.800
+1890;carvoeiro;3;167.899.998.982.747.000
+1890;vaqueiro;3;167.933.329.264.323
+1890;vendedor;1;168
+1890;NA;1;168
+1890;empregado da companhia do gás;1;168
+1890;contado de tabaco;1;168
+1890;maioral;1;168.100.006.103.516
+1890;marítimo;3;168.266.667.683.919.000
+1890;colchoeiro;2;1.683.000.030.517.570
+1890;guarda civil;1;168.5
+1890;empregado dos caminhos de ferro;2;168.5
+1890;empregado dos caminhos de ferro;1;168.5
+1890;escriturário;1;168.800.003.051.758
+1890;seareiro/seareira;3;168.833.333.333.333.000
+1890;estampador;3;168.866.663.614.909
+1890;aprendiz de Sapateiro;2;168.900.001.525.879
+1890;empregado dos caminhos de ferro;1;169
+1890;empregado dos caminhos de ferro;1;169
+1890;carpinteiro de machado;1;169
+1890;recebedor;1;169
+1890;radiotelegrafista;2;169.099.998.474.121
+1890;fabricante;1;169.199.996.948.242
+1890;NA;1;169.5
+1890;relojoeiro;1;169.599.990.844.727
+1890;mendigo/mendiga;2;169.650.001.525.879
+1890;empregado;1;170
+1890;electricista;1;170
+1890;recebedor;1;170
+1890;banqueiro;1;170
+1890;ferreiro;1;170.099.990.844.727
+1890;estivador;1;170.199.996.948.242
+1890;farmacêutico;1;171
+1890;carpinteiro de carros;1;171
+1890;NA;1;171.699.996.948.242
+1890;encardernador;1;172
+1890;radiotelegrafista;1;172.199.996.948.242
+1890;NA;1;173.199.996.948.242
+1890;NA;1;175
+1890;seleiro;1;175.5
+1890;empregado de escritório;2;1.767.499.923.706.050
+1890;empregado de banco / empregado bancário;1;179
+1890;afinador de teares;1;180.5
+1890;empreiteiro;1;181
+1890;criado de lavoura;1;182
